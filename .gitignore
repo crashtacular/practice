@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+#folders
+CodingPractice/Debug/
+Debug/
+CodingPractice/ipch/
+ipch/
